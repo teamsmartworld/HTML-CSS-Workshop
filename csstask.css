@@ -40,6 +40,10 @@ h2 {
     background-color: #fcfaf2;
 }
 
+h3 {
+    color: #0e4979;
+    font-size: 21px;
+}
 img {
     max-width: 100%;
     height: auto;
