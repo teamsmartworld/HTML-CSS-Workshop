@@ -15,7 +15,8 @@ header {
 
 #products {
     margin-top: 20px;
-    margin-bottom: 20px;text-align: center;
+    margin-bottom: 20px;
+    text-align: center;
     padding: 20px;
     background-color: #ffffff;
     border: 1px solid;
@@ -28,7 +29,7 @@ h2 {
 }
 
 .product {
-    margin: auto;
+    margin: 10px, 20px;
     padding: 10px;
     max-width: 600px;
     border: 1px solid #ddd;
@@ -42,3 +43,28 @@ img {
     margin-top: 5px;
 }
 
+.email-field {
+    margin-bottom: 15px;
+}
+
+button {
+    background-color: #4CAF50;
+    color: #ffffff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+}
+
+footer {
+    margin-top: 20px;
+    padding: 25px;
+    background-color: #000000;
+    border-radius: 10px;
+    box-shadow: 2px 2px 2px 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    color: #ffffff;
+}
+
+ul li {
+    list-style-type: none;
+}
