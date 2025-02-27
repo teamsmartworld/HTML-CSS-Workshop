@@ -12,6 +12,9 @@ header {
     text-align: center;
     padding: 20px;
 }
+header p {
+    font-weight: 600;
+}
 
 #products {
     margin-top: 20px;
