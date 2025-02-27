@@ -9,4 +9,36 @@ body {
 header {
     background-color: #d10000;
     color: #ffffff;
+    text-align: center;
+    padding: 20px;
 }
+
+#products {
+    margin-top: 20px;
+    margin-bottom: 20px;text-align: center;
+    padding: 20px;
+    background-color: #ffffff;
+    border: 1px solid;
+    border-radius: 5px;
+}
+
+h2 {
+    color: #4CAF50;
+    text-align: center;
+}
+
+.product {
+    margin: auto;
+    padding: 10px;
+    max-width: 600px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 5px;
+    margin-top: 5px;
+}
+
